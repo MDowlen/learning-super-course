@@ -2,6 +2,8 @@
 
 A static, GitHub Pages-ready learning library based on three private source books:
 
+This repository publishes automatically through the included GitHub Actions workflow.
+
 - SQL: From First Query to Database Builder
 - Python Network Automation: Lab to Production
 - Data Science: Think Clearly, Model Carefully
